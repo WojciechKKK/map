@@ -7,4 +7,4 @@
 * svg: https://www.amcharts.com/svg-maps/?map=world
 
 -demo:
-https://wojciechkkk.pl/task
+https://wojciechkkk.pl/map
