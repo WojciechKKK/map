@@ -1,0 +1,128 @@
+@import '../../styles/main.scss';
+
+$detailsFont: #337ab7;
+
+.details-description{
+    text-align: left;
+    font-family: $fontFamily;
+    width: 100%;
+    margin: 0 auto;
+    line-height: 1.7rem;
+    padding-top: $paddingElementSmall;
+    background: $backgroundDetails;
+    @media screen and (min-width: 1024px){
+        width: 50%;
+        display: inline-block;
+        float: right;
+        height: 600px;
+        // padding: $paddingElementSmall
+      }
+    .details-description-container{
+        width: 90%;
+        background: $backgroundDetails;
+        margin: 0 auto;
+        .details-title{
+            font-size: 24px;
+        }
+        .details-city{
+            font-size: 14px;
+            color: $colorHeaders;
+            a{
+                text-decoration: none;
+                color: $detailsFont;
+                &:hover{
+                    color: $elementHover;
+                }
+            }
+        }
+        .details-star{
+            color: #ffd75f;
+        }
+        .details-opinion{
+            color: $detailsFont;
+            &:hover{
+                cursor: pointer;
+                color: $elementHover;
+            }
+            .opinion-list{
+                color:black;
+                @media screen and (min-width: 1024px){
+                    position: absolute;
+                    width: 40%;
+                    margin: 0 auto;
+                    // height: 80%;
+                    // border: 0.5px solid black;
+                  }
+                .opinion-el{
+                    padding: 10px 0;
+                    // border-bottom: 1px solid black;
+                    background: white;
+                    margin-top: 10px;
+                    padding-left: 10px;
+                    .fa-user-check{
+                        margin-right: 5px;
+                        color: green
+                    }
+                    .opinion-el__detail{
+                        font-size: 0.8rem;
+                        .opinion-el__border{
+                            font-weight: 700;
+                            padding: 0 5px;
+                        }
+                    }  
+                    .opinion-el__text{
+                        margin: 10px 0;
+                    } 
+                }
+            }
+    
+        }
+        .details-break{
+            background: grey;
+            height: 1px;
+            margin: 30px auto;
+            width: 100%;
+            @media screen and (min-width: 1024px){
+                margin: $paddingElementSmall auto;
+              }
+        }
+        .details-table{
+            border-spacing: 0px 10px;
+            border-collapse: separate;
+            tr{
+                margin: 10px 0;
+                line-height: 1.2rem;
+                @media screen and (min-width: 1024px){
+                    font-size: 0.9rem;
+                    line-height: 1.2rem;
+                  }
+               td:first-child{
+                   width: 40%;
+                    color: $colorHeaders;
+                   @media screen and (min-width: 1024px){
+                    width: 25%;
+                  }
+               } 
+               td a{
+                   text-decoration: none;
+                   &:hover{
+                       color: $elementHover;
+                       cursor: pointer
+                   }
+               }
+            }
+        }
+        .details-footer{
+            text-align: center;
+            padding-top: 30px;
+            @media screen and (min-width: 1024px){
+                padding-top: $paddingElementSmall;
+
+              }
+            img{
+                width: 100px;
+                height: 100px
+            }
+        }
+    }
+}

@@ -1,0 +1,49 @@
+@import '../../styles/main.scss';
+
+.loading{
+	.loadingEmpik{
+		position: absolute;
+		top: 50%; 
+		left: 50%; 
+		transform: translate(-50%, -50%);
+	}
+	// .loadingCircle {
+	// 	width: 20px;
+	// 	height: 20px;
+	// 	border-radius: 50%;
+	// 	animation: loader 1.3s infinite linear;
+	// 	position: absolute;
+	// 	top: 50%; 
+	// 	left: 50%; 
+	// 	transform: translate(-50%, -50%);
+	// }
+}
+
+
+@keyframes loader {
+	0%,
+	100% {
+		box-shadow: 0 -60px 0 0.40px $loadingColor, 40px -40px 0 0 $loadingColor, 60px 0 0 -10px $loadingColor, 40px 40px 0 -10px $loadingColor, 0 60px 0 -10px $loadingColor, -40px 40px 0 -10px $loadingColor, -60px 0 0 -10px $loadingColor, -40px -40px 0 0 $loadingColor;
+	}
+	12.5% {
+		box-shadow: 0 -60px 0 0 $loadingColor, 40px -40px 0 0.40px $loadingColor, 60px 0 0 0 $loadingColor, 40px 40px 0 -10px $loadingColor, 0 60px 0 -10px $loadingColor, -40px 40px 0 -10px $loadingColor, -60px 0 0 -10px $loadingColor, -40px -40px 0 -10px $loadingColor;
+	}
+	25% {
+		box-shadow: 0 -60px 0 -10px $loadingColor, 40px -40px 0 0 $loadingColor, 60px 0 0 0.40px $loadingColor, 40px 40px 0 0 $loadingColor, 0 60px 0 -10px $loadingColor, -40px 40px 0 -10px $loadingColor, -60px 0 0 -10px $loadingColor, -40px -40px 0 -10px $loadingColor;
+	}
+	37.5% {
+		box-shadow: 0 -60px 0 -10px $loadingColor, 40px -40px 0 -10px $loadingColor, 60px 0 0 0 $loadingColor, 40px 40px 0 0.40px $loadingColor, 0 60px 0 0 $loadingColor, -40px 40px 0 -10px $loadingColor, -60px 0 0 -10px $loadingColor, -40px -40px 0 -10px $loadingColor;
+	}
+	50% {
+		box-shadow: 0 -60px 0 -10px $loadingColor, 40px -40px 0 -10px $loadingColor, 60px 0 0 -10px $loadingColor, 40px 40px 0 0 $loadingColor, 0 60px 0 0.40px $loadingColor, -40px 40px 0 0 $loadingColor, -60px 0 0 -10px $loadingColor, -40px -40px 0 -10px $loadingColor;
+	}
+	62.5% {
+		box-shadow: 0 -60px 0 -10px $loadingColor, 40px -40px 0 -10px $loadingColor, 60px 0 0 -10px $loadingColor, 40px 40px 0 -10px $loadingColor, 0 60px 0 0 $loadingColor, -40px 40px 0 0.40px $loadingColor, -60px 0 0 0 $loadingColor, -40px -40px 0 -10px $loadingColor;
+	}
+	75% {
+		box-shadow: 0 -60px 0 -10px $loadingColor, 40px -40px 0 -10px $loadingColor, 60px 0 0 -10px $loadingColor, 40px 40px 0 -10px $loadingColor, 0 60px 0 -10px $loadingColor, -40px 40px 0 0 $loadingColor, -60px 0 0 0.40px $loadingColor, -40px -40px 0 0 $loadingColor;
+	}
+	87.5% {
+		box-shadow: 0 -60px 0 0 $loadingColor, 40px -40px 0 -10px $loadingColor, 60px 0 0 -10px $loadingColor, 40px 40px 0 -10px $loadingColor, 0 60px 0 -10px $loadingColor, -40px 40px 0 0 $loadingColor, -60px 0 0 0 $loadingColor, -40px -40px 0 0.40px $loadingColor;
+	}
+}

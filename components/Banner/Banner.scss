@@ -1,0 +1,20 @@
+@import '../../styles/main.scss';
+
+$sizeBanner: 10vh;
+
+.banner{
+    width: 100%;
+    margin: 0 auto;
+    padding-top: $paddingElement;
+    @media screen and (min-width: 1024px){
+        padding-top: $paddingElementSmall;
+        width: 90%;
+      }
+      @media screen and (min-width: 1280px){
+        padding-top: $paddingElementSmall+10px;
+      }
+    .banner-img{
+        width: 100%;
+        height: $sizeBanner
+    }
+}

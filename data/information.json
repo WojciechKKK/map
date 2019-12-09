@@ -1,0 +1,259 @@
+{
+    "PL-DS": {
+        "title": "Dolnośląskie",
+        "city": "Wrocław",
+        "quantityStar": "5",
+        "opinion": [{},{},{}],
+        "areaSize": "19 946,7 km²",
+        "population": "2900,0 tys",
+        "info": "Zostało utworzone w 1999 roku z ziem poprzednich województw wrocławskiego, legnickiego, jeleniogórskiego, wałbrzyskiego i części leszczyńskiego oraz kaliskiego.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ratusz2noc.jpg/620px-Ratusz2noc.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Krkono%C5%A1e-Wawel-%C5%9Anie%C5%BCne-Kot%C5%82y2009.jpg/800px-Krkono%C5%A1e-Wawel-%C5%9Anie%C5%BCne-Kot%C5%82y2009.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bolkow%28js%291.jpg/800px-Bolkow%28js%291.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wroclaw_rynek_%282015%29.JPG/800px-Wroclaw_rynek_%282015%29.JPG"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/POL_wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie_COA.svg/510px-POL_wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie_COA.svg.png"
+    },
+    "PL-KP": {
+        "title": "Kujawsko-Pomorskie",
+        "city": "Bydgoszcz",
+        "quantityStar": "6",
+        "opinion": [{},{},{}],
+        "areaSize": "17 971,34 km²",
+        "population": "2 074 500",
+        "info": " Zostało utworzone na mocy ustawy z dnia 24 lipca 1998 w przybliżeniu z dawnych województw: bydgoskiego, toruńskiego i włocławskiego. 30 czerwca 2019 województwo liczyło 2,07 mln mieszkańców.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/7-11_Grodzka_Street_in_Bydgoszcz_01.jpg/800px-7-11_Grodzka_Street_in_Bydgoszcz_01.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Medieval_Town_of_Torun_Poland_%28355456506%29.jpg/800px-Medieval_Town_of_Torun_Poland_%28355456506%29.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Torun_Ratusz_Staromiejski_2010_03_04_7189.JPG/669px-Torun_Ratusz_Staromiejski_2010_03_04_7189.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rzeczka_Prusina_2006.JPG/800px-Rzeczka_Prusina_2006.JPG"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/POL_wojew%C3%B3dztwo_kujawsko-pomorskie_COA.svg/487px-POL_wojew%C3%B3dztwo_kujawsko-pomorskie_COA.svg.png"
+
+    },
+    "PL-LD": {
+        "title": "Łódzkie",
+        "city": "Łódź",
+        "quantityStar": "7",
+        "opinion": [{},{},{}],
+        "areaSize": "18 218,95 km²",
+        "population": "2 466 322",
+        "info": " Obejmuje obszar o powierzchni 18 218,95 km². Według danych z 31 grudnia 2018 województwo zamieszkiwało 2,5 mln osób. Ma najmniejszą lesistość w kraju. Siedzibą władz województwa jest Łódź.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SM_Tum_kolegiata_ID_612614.jpg/1280px-SM_Tum_kolegiata_ID_612614.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Skierniewice_Rynek.jpg/800px-Skierniewice_Rynek.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Plac_Narutowicza_w_Be%C5%82chatowie.jpg/800px-Plac_Narutowicza_w_Be%C5%82chatowie.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Plac_Ko%C5%9Bciuszki_w_Tomaszowie_Mazowieckim.jpg/800px-Plac_Ko%C5%9Bciuszki_w_Tomaszowie_Mazowieckim.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/POL_wojew%C3%B3dztwo_%C5%82%C3%B3dzkie_COA.svg/489px-POL_wojew%C3%B3dztwo_%C5%82%C3%B3dzkie_COA.svg.png"
+    },
+    "PL-LU": {
+        "title": "Lubelskie",
+        "city": "Lublin",
+        "quantityStar": "8",
+        "opinion": [{},{},{}],
+        "areaSize": "25 122,46 km²",
+        "population": "2 117 619",
+        "info": "Obejmuje głównie południową połowę Niziny Południowopodlaskiej, Polesie Zachodnie i Wołyńskie (po Bug) oraz Wyżynę Lubelską, mały obszar Wyżyny Wołyńskiej, większość polskiego Roztocza i skraj Kotliny Sandomierskiej.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Zamek_w_Lublinie_-_Muzeum_Lubelskie.jpg/800px-Zamek_w_Lublinie_-_Muzeum_Lubelskie.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ratusz%2C_Zamo%C5%9B%C4%87.jpg/800px-Ratusz%2C_Zamo%C5%9B%C4%87.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lubart%C3%B3w%2C_Pa%C5%82ac_Sanguszk%C3%B3w%2C_fontanna.jpg/800px-Lubart%C3%B3w%2C_Pa%C5%82ac_Sanguszk%C3%B3w%2C_fontanna.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Roztocze_National_Park_%2803%29.JPG/800px-Roztocze_National_Park_%2803%29.JPG"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/POL_wojew%C3%B3dztwo_lubelskie_COA.svg/514px-POL_wojew%C3%B3dztwo_lubelskie_COA.svg.png"
+    },
+    "PL-LB": {
+        "title": "Lubuskie",
+        "city": "Zielona Góra",
+        "quantityStar": "2",
+        "opinion": [{},{},{}],
+        "areaSize": "13 987,93 km²",
+        "population": "1 013 031",
+        "info":"województwo w zachodniej Polsce, utworzone w 1999 roku – w wyniku reformy administracyjnej – z większości terytoriów dawnych województw: gorzowskiego i zielonogórskiego oraz niewielkiej części leszczyńskiego.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ujscie_Warty_PN_09-2017_img04.jpg/800px-Ujscie_Warty_PN_09-2017_img04.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/7/71/Collegium_Polonicum_-_od_strony_Odry.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Katedra_noc%C4%85_Gorz%C3%B3w_Wlkp2.JPG/799px-Katedra_noc%C4%85_Gorz%C3%B3w_Wlkp2.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/20170920_1443_c377_nowa-sol_kosciol-st-antonio-8m-mk-a-cr.jpg/800px-20170920_1443_c377_nowa-sol_kosciol-st-antonio-8m-mk-a-cr.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/POL_wojew%C3%B3dztwo_lubuskie_COA.svg/511px-POL_wojew%C3%B3dztwo_lubuskie_COA.svg.png"
+    },
+    "PL-MA": {
+        "title": "Małopolskie",
+        "city": "Kraków",
+        "quantityStar": "9",
+        "opinion": [{},{},{}],
+        "areaSize": "15 182,87 km²",
+        "population": "3 404 900",
+        "info": "Województwo zajmuje powierzchnię 15 182 km² i jest jednym z mniejszych w Polsce (12 miejsce w kraju). Województwo ma 3,4 mln mieszkańców (stan na 30 VI 2019)[2], zajmując pod tym względem 4. miejsce w Polsce.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Krakow_Wawel_G53.jpg/800px-Krakow_Wawel_G53.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Niedzica_zamek3.JPG/800px-Niedzica_zamek3.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nowy_Wi%C5%9Bnicz_z_powietrza.jpg/800px-Nowy_Wi%C5%9Bnicz_z_powietrza.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kaplica_%C5%9Bw.Kingi%2C_kopalnia_soli_%22Wieliczka%22.jpg/800px-Kaplica_%C5%9Bw.Kingi%2C_kopalnia_soli_%22Wieliczka%22.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/POL_wojew%C3%B3dztwo_ma%C5%82opolskie_COA.svg/543px-POL_wojew%C3%B3dztwo_ma%C5%82opolskie_COA.svg.png"
+    },
+    "PL-MZ": {
+        "title": "Mazowieckie",
+        "city": "Warszawa",
+        "quantityStar": "7",
+        "opinion": [{},{},{}],
+        "areaSize": "35 558,47 km²",
+        "population": "5 391 813",
+        "info": "Największe pod względem powierzchni i ludności województwo, znajdujące się w środkowej i wschodniej części Polski. Według danych z 30 czerwca 2018 r. miało 5,39 mln mieszkańców.",
+        "img": [
+            "https://static.polityka.pl/_resource/res/path/cf/3e/cf3e43e3-b095-43b5-85aa-14f19b3d33c3_f1400x900",
+            "https://g0.gazetaprawna.pl/p/_wspolne/pliki/2902000/2902339-warszawa-657-323.jpg",
+            "https://bi.im-g.pl/im/05/f3/16/z24065541IH,Wybory-samorzadowe-2018--Lista-kandydatow---Warsza.jpg",
+            "https://cdn.galleries.smcloud.net/t/galleries/gf-FoEZ-nSfF-3dPh_warszawa-krola-zygmunta-przeprowadzka-do-warszawy-664x442-nocrop.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/POL_wojew%C3%B3dztwo_mazowieckie_COA.svg/505px-POL_wojew%C3%B3dztwo_mazowieckie_COA.svg.png"
+    },
+    "PL-OP": {
+        "title": "Opolskie",
+        "city": "Opole",
+        "quantityStar": "8",
+        "opinion": [{},{},{}],
+        "areaSize": "9411,87 km²",
+        "population": "984 300",
+        "info": "Obejmując obszar o powierzchni 9412 km² jest obecnie najmniejszym województwem w Polsce. Według danych z 30 czerwca 2019 r. było też województwem z najmniejszą liczbą mieszkańców – 984 300 mieszkańców.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Town_hall_in_Opole.JPG/800px-Town_hall_in_Opole.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2014_Nysa%2C_stare_miasto_03.JPG/800px-2014_Nysa%2C_stare_miasto_03.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Brzeg_Op.JPG/800px-Brzeg_Op.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Prudnik%2C_Poland_-_panoramio_%2877%29.jpg/800px-Prudnik%2C_Poland_-_panoramio_%2877%29.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/POL_wojew%C3%B3dztwo_opolskie_COA.svg/516px-POL_wojew%C3%B3dztwo_opolskie_COA.svg.png"
+    },
+    "PL-PK": {
+        "title": "Podkarpackie",
+        "city": "Rzeszów",
+        "quantityStar": "5",
+        "opinion": [{},{},{}],
+        "areaSize": "17 845,76 km²",
+        "population": "2 129 138",
+        "info": "Powstało poprzez scalenie ziem województw przemyskiego i rzeszowskiego, oraz części krośnieńskiego, tarnobrzeskiego i tarnowskiego. Zajmuje powierzchnię 17 845,76 km².",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/San_widziany_z_Zamku_Sobie%C5%84.JPG/800px-San_widziany_z_Zamku_Sobie%C5%84.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/SolinaDam.jpg/800px-SolinaDam.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rzesz%C3%B3w%2C_centrum_m%C4%9Bsta%2C_Rynek%2C_radnice.JPG/800px-Rzesz%C3%B3w%2C_centrum_m%C4%9Bsta%2C_Rynek%2C_radnice.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/7/72/Rzesz%C3%B3w_zamek_2004b.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/POL_wojew%C3%B3dztwo_podkarpackie_COA.svg/515px-POL_wojew%C3%B3dztwo_podkarpackie_COA.svg.png"
+    },
+    "PL-PD": {
+        "title": "Podlaskie",
+        "city": "Białystok",
+        "quantityStar": "3",
+        "opinion": [{},{},{}],
+        "areaSize": "20 187,02 km²",
+        "population": "1 187 587",
+        "info": "Położone jest w północno-wschodniej części kraju, w geograficznym środku Europy. Przez jego środek przepływa Narew. Na dzień 30 czerwca 2016 województwo miało 1,2 mln mieszkańców.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bialystok_katedra_fc16.jpg/800px-Bialystok_katedra_fc16.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/%C5%81om%C5%BCa_Panorama.jpg/800px-%C5%81om%C5%BCa_Panorama.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Zambr%C3%B3w_Park.jpg/799px-Zambr%C3%B3w_Park.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bia%C5%82owieski_Park_Narodowy_Zubry03.jpg/800px-Bia%C5%82owieski_Park_Narodowy_Zubry03.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/POL_wojew%C3%B3dztwo_podlaskie_COA.svg/545px-POL_wojew%C3%B3dztwo_podlaskie_COA.svg.png"
+    },
+    "PL-PM": {
+        "title": "Pomorskie",
+        "city": "Gdańsk",
+        "quantityStar": "6",
+        "opinion": [{},{},{}],
+        "areaSize": "18 310,34 km²",
+        "population": "2 337 769",
+        "info": "Położone w północnej części kraju. Siedzibą władz województwa jest Gdańsk. Obejmuje obszar o powierzchni 18 310,34 km². Jest najdalej wysuniętym na północ województwem państwa.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/e/ef/Gdansk_Glowne_Miasto.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Terminal_kontenerowy_Gdynia.jpg/800px-Terminal_kontenerowy_Gdynia.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NoDSC_0143.JPG/800px-NoDSC_0143.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Malbork_1.jpg/800px-Malbork_1.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/POL_wojew%C3%B3dztwo_pomorskie_COA.svg/489px-POL_wojew%C3%B3dztwo_pomorskie_COA.svg.png"
+    },
+    "PL-SL": {
+        "title": "Śląskie",
+        "city": "Katowice",
+        "quantityStar": "2",
+        "opinion": [{},{},{}],
+        "areaSize": "12 333,09 km²",
+        "population": "4 524 100",
+        "info": "Jest województwem o najwyższym stopniu urbanizacji i gęstości zaludnienia. Województwo śląskie jest jedynym województwem w Polsce, w którym jest więcej miast na prawach powiatu niż powiatów.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Katowice.jpg/800px-Katowice.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cz%C4%99stochowa%2C_ko%C5%9Bci%C3%B3%C5%82_pw._Wniebowzi%C4%99cia_NMP_i_Znalezienia_Krzy%C5%BCa_%C5%9Aw._01.JPG/800px-Cz%C4%99stochowa%2C_ko%C5%9Bci%C3%B3%C5%82_pw._Wniebowzi%C4%99cia_NMP_i_Znalezienia_Krzy%C5%BCa_%C5%9Aw._01.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bielsko-Bia%C5%82a_Downtown.jpg/800px-Bielsko-Bia%C5%82a_Downtown.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Elektrownia_Rybnik.jpg/798px-Elektrownia_Rybnik.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/POL_wojew%C3%B3dztwo_%C5%9Bl%C4%85skie_COA.svg/547px-POL_wojew%C3%B3dztwo_%C5%9Bl%C4%85skie_COA.svg.png"
+    },
+    "PL-SK": {
+        "title": "Świętokrzyskie",
+        "city": "Kielce",
+        "quantityStar": "7",
+        "opinion": [{},{},{}],
+        "areaSize": "11 710,50 km²",
+        "population": "1 241 546",
+        "info": "Województwo obejmuje obszar 11 710,50 km² i zamieszkuje je 1,24 mln osób. Jest jednym z 16 województw utworzonych w 1999 roku.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/POL_Bodzech%C3%B3w%2C_Lisiny_Bodzechowskie.jpg/800px-POL_Bodzech%C3%B3w%2C_Lisiny_Bodzechowskie.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ulica_Ko%C5%9Bcielna%2C_widok_na_ko%C5%9Bci%C3%B3%C5%82_%C5%9Aw._Tr%C3%B3jcy.JPG/800px-Ulica_Ko%C5%9Bcielna%2C_widok_na_ko%C5%9Bci%C3%B3%C5%82_%C5%9Aw._Tr%C3%B3jcy.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20130702_Sandomierz_ratusz_0842.jpg/800px-20130702_Sandomierz_ratusz_0842.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ostrowiec_kosciol_20071008_0908.jpg/800px-Ostrowiec_kosciol_20071008_0908.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/POL_wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie_COA.svg/517px-POL_wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie_COA.svg.png"
+    },
+    "PL-WN": {
+        "title": "Warmińsko-Mazurskie",
+        "city": "Olsztyn",
+        "quantityStar": "6",
+        "opinion": [{},{},{}],
+        "areaSize": "24 173,17 km²",
+        "population": "1 429 000",
+        "info": "Położone jest w północno-wschodniej części kraju. Siedzibą wojewody i władz samorządu województwa jest Olsztyn. Obejmuje obszar 24 173,47 km² i liczy 1,43 mln mieszkańców (31 grudzień 2018).",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/00/E%C5%82k-ul.Wojska_Polskiego.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boulevard_in_Ostroda.JPG/800px-Boulevard_in_Ostroda.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/I%C5%82awa_-_ko%C5%9Bci%C3%B3%C5%82_Przemienienia_Pa%C5%84skiego_%28widok_od_strony_Ma%C5%82ego_Jezioraka%29.jpg/800px-I%C5%82awa_-_ko%C5%9Bci%C3%B3%C5%82_Przemienienia_Pa%C5%84skiego_%28widok_od_strony_Ma%C5%82ego_Jezioraka%29.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gi%C5%BCycko_-_widok_na_Niegocin.jpg/800px-Gi%C5%BCycko_-_widok_na_Niegocin.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Warminsko-mazurskie_herb.svg/543px-Warminsko-mazurskie_herb.svg.png"
+    },
+    "PL-WP": {
+        "title": "Wielkopolskie",
+        "city": "Poznań",
+        "quantityStar": "10",
+        "opinion": [{},{},{}],
+        "areaSize": "29 826,50 km²",
+        "population": "3 495 470",
+        "info": "Województwo zajmuje drugie miejsce pod względem powierzchni i trzecie pod względem liczby ludności. Dzieli się na 4 miasta na prawach powiatu, 31 powiatów i 226 gmin, które zamieszkuje 3,495 mln osób.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dab_sokol_giewartow.jpg/450px-Dab_sokol_giewartow.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Port_Lotniczy_%C5%81awica_RB2.JPG/799px-Port_Lotniczy_%C5%81awica_RB2.JPG",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dolina_Cybiny_near_Swarzedz.jpg/800px-Dolina_Cybiny_near_Swarzedz.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kwbkonin.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/POL_wojew%C3%B3dztwo_wielkopolskie_COA.svg/514px-POL_wojew%C3%B3dztwo_wielkopolskie_COA.svg.png"
+    },
+    "PL-ZP": {
+        "title": "Zachodniopomorskie",
+        "city": "Szczecin",
+        "quantityStar": "8",
+        "opinion": [{},{},{}],
+        "areaSize": "22 892,48 km²",
+        "population": "1 698 344",
+        "info": "Graniczy na wschodzie z województwem pomorskim, na południu z województwami: wielkopolskim i lubuskim, a na zachodzie z niemieckimi krajami związkowymi: Brandenburgią i Meklemburgią.",
+        "img": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/East_Mrzezyno_bird%27s-eye_view_2007-10.jpg/800px-East_Mrzezyno_bird%27s-eye_view_2007-10.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/7/74/Wpn_szlak_rowerowy.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Trzebiatow_Old_Town_bird%27s-eye_view_2007-10a.jpg/800px-Trzebiatow_Old_Town_bird%27s-eye_view_2007-10a.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Darlowo3.jpg/800px-Darlowo3.jpg"
+        ],
+        "herb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/POL_wojew%C3%B3dztwo_zachodniopomorskie_COA.svg/528px-POL_wojew%C3%B3dztwo_zachodniopomorskie_COA.svg.png"
+    }
+}

@@ -1,0 +1,29 @@
+@import '../../styles/main.scss';
+
+.generate-map{
+    background: $backgroundColor;
+    width: 90%;
+    height: 100%;
+    // margin: 0 auto;
+    // display: grid;
+    // justify-content: center;
+    // align-items: center 
+    .land{
+        fill: $mapColor;
+        fill-opacity: 1;
+        stroke: $provinceBorderColor;
+        stroke-opacity: 1;
+        stroke-width: 0.5;
+        // transition: 0.3s ease-in-out;
+    }
+}
+
+// set hover for all province
+$listProvince: 'PL-DS','PL-KP','PL-LD','PL-LU','PL-LB','PL-MZ','PL-MA','PL-OP','PL-PK','PL-PD','PL-PM','PL-SL','PL-SK','PL-WN','PL-WP','PL-ZP';
+@each $province in $listProvince{
+    ##{$province}:hover{
+        fill: $activeProvince;
+        cursor: pointer
+    }
+}
+

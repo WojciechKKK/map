@@ -1,0 +1,20 @@
+@import './global/reset.scss';
+
+$backgroundColor: white;
+$fontFamily: 'Helvetica', sans-serif;
+$elementHover: black;
+
+//GenerateMap
+$activeProvince: #fc7c41;
+$mapColor: #CCCCCC;
+$provinceBorderColor: #FFF;
+
+//Loading
+$loadingColor: #fc7c41;
+
+//Details
+$paddingElement: 30px;
+$paddingElementSmall: 10px;
+$backgroundDetails: #f1f3f7;
+$detailsFontColors: #494949;
+$colorHeaders: rgb(149, 154, 157)
