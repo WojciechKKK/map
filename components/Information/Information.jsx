@@ -106,10 +106,10 @@ class Information extends Component{
                         </tbody>
                     </table>
                     <footer className="details-footer">
-                        <img src={herb} alt="Herb miasta" title={`Herb miasta ${city}`}></img>
+                        <img src={herb} alt={`Herb miasta ${title}`} title={`Herb miasta ${city}`}></img>
                     </footer>
                 </div>
-                <Banner />    
+                {/* <Banner />     */}
             </section>
         )
     }

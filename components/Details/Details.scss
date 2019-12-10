@@ -44,9 +44,8 @@ $widthSmallImg: 20%;
     animation-timing-function: linear;
     @media screen and (min-width: 1024px){
       width: 90%;
-      height: 600px;
+      height: 500px;
       background: $backgroundDetails;
-
     }
     @media screen and (min-width: 1280px){
       width: 70%;
@@ -59,7 +58,7 @@ $widthSmallImg: 20%;
         @media screen and (min-width: 1024px){
           width: 50%;
           display: inline-block;
-          height: 600px;
+          height: 500px;
         }
         .detailsImg{
           height: $heigthCentralImg;

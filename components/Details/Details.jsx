@@ -100,7 +100,7 @@ class Details extends Component{
                             <div className="detailsImg" style={{backgroundImage: `url(${img[this.state.counterImg]})`}}></div>
                             <div className="details-imgOther">
                                 {
-                                    img.map((el,id) => <img key={id} id={id} onClick={this.setImage}src={el} className={id == this.state.counterImg ? 'details-img-items-active' : 'details-img-items'}></img>)
+                                    img.map((el,id) => <img alt={`Atrakcje_${title}`} key={id} id={id} onClick={this.setImage}src={el} className={id == this.state.counterImg ? 'details-img-items-active' : 'details-img-items'}></img>)
                                 }
                                  <div className="arrowRight" onClick={this.nextImage}>
                                     <i className="fas fa-chevron-right"></i>
