@@ -7,7 +7,7 @@ Strona prezentuje informacje dot. poszczególnych województw.
 * ES6
 * Webpack
 * Sass
-* SVG: https://www.amcharts.com/svg-maps/?map=world
+* svg_map: https://www.amcharts.com/svg-maps/?map=world
 	
 #### Instalacja
 ```
