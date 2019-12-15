@@ -9,7 +9,7 @@ Strona prezentuje informacje dot. poszczególnych województw.
 * Sass
 * SVG: https://www.amcharts.com/svg-maps/?map=world
 	
-#### Instalacje
+#### Instalacja
 ```
 $ npm i
 $ npm start
