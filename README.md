@@ -10,7 +10,6 @@ Strona prezentuje informacje dot. poszczególnych województw.
 * SVG: https://www.amcharts.com/svg-maps/?map=world
 	
 #### Instalacje
-- przejdź do folderu 'app', nastepnie uruchom polecenia:
 ```
 $ npm i
 $ npm start
