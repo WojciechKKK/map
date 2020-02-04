@@ -1,6 +1,6 @@
 ## Mapa województw
 #### Informacje
-Strona prezentuje informacje dot. poszczególnych województw.
+Interaktywna mapa, która prezentuje informacje dotyczące poszczególnych województw.
 	
 #### Technologie
 * React
